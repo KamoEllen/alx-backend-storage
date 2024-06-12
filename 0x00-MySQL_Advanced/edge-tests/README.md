@@ -1,1 +1,1 @@
-# MySQL Advanced Edgee Tests 💿 🛠️
+# MySQL Advanced Edgee Tests 
